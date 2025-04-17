@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey there, I'm Chinenye Genevieve Onyema — Backend & DevOps Engineer | Cloud Solutions Architect ☁️
 
 Welcome to my GitHub profile!
