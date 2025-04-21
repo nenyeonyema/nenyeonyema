@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a results-driven **Backend and DevOps Engineer** with deep expertise in **Cloud Engineering** (AWS | GCP), **Infrastructure as Code**, and **automated CI/CD pipelines**. I specialize in designing scalable, secure, and high-performance backend architectures — and automating everything from deployment to monitoring.
+I'm a results-driven Backend and DevOps Engineer with deep expertise in Cloud Engineering (AWS | GCP), Infrastructure as Code, and automated CI/CD pipelines. I specialize in designing scalable, secure, and high-performance backend architectures and automating everything from deployment to monitoring.
 
 ---
 
