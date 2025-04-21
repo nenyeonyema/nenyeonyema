@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Chinenye Genevieve Onyema — Backend & DevOps Engineer | Cloud Solutions Architect ☁️
+# 👋 Hey there, I'm Chinenye Genevieve Onyema; Backend & DevOps Engineer | Cloud Solutions Architect ☁️
 
 Welcome to my GitHub profile!
 
@@ -77,4 +77,4 @@ I'm a results-driven Backend and DevOps Engineer with deep expertise in Cloud En
 
 > "Infrastructure should be versioned, deployments should be automated, and observability should be a first-class citizen."
 
-Thanks for visiting — and happy shipping 🚀
+Thanks for visiting and happy shipping 🚀
